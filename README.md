@@ -1,3 +1,3 @@
-#My first README.md file for my project for describing the mini project#
+#Lesson: Arrays#
 
 **will be continued soon!**
