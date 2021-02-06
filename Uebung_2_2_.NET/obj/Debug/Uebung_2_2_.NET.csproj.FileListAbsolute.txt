@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\2021_02_04_C#\Uebung_2_2_.NET\Uebung_2_2_.NET\bin\Debug\Uebung_2_2_.NET.exe.config
+C:\Users\Admin\Downloads\2021_02_04_C#\Uebung_2_2_.NET\Uebung_2_2_.NET\bin\Debug\Uebung_2_2_.NET.exe
+C:\Users\Admin\Downloads\2021_02_04_C#\Uebung_2_2_.NET\Uebung_2_2_.NET\bin\Debug\Uebung_2_2_.NET.pdb
+C:\Users\Admin\Downloads\2021_02_04_C#\Uebung_2_2_.NET\Uebung_2_2_.NET\obj\Debug\Uebung_2_2_.NET.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\2021_02_04_C#\Uebung_2_2_.NET\Uebung_2_2_.NET\obj\Debug\Uebung_2_2_.NET.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\2021_02_04_C#\Uebung_2_2_.NET\Uebung_2_2_.NET\obj\Debug\Uebung_2_2_.NET.exe
+C:\Users\Admin\Downloads\2021_02_04_C#\Uebung_2_2_.NET\Uebung_2_2_.NET\obj\Debug\Uebung_2_2_.NET.pdb
+C:\Users\Admin\OneDrive\Daten PatrickHaag89@gmx.de\C#\Sem2 - 1. Schulaufgabe\2021_02_04_Einheit1_C#\Uebung_2_2_.NET\Uebung_2_2_.NET\bin\Debug\Uebung_2_2_.NET.exe.config
+C:\Users\Admin\OneDrive\Daten PatrickHaag89@gmx.de\C#\Sem2 - 1. Schulaufgabe\2021_02_04_Einheit1_C#\Uebung_2_2_.NET\Uebung_2_2_.NET\bin\Debug\Uebung_2_2_.NET.exe
+C:\Users\Admin\OneDrive\Daten PatrickHaag89@gmx.de\C#\Sem2 - 1. Schulaufgabe\2021_02_04_Einheit1_C#\Uebung_2_2_.NET\Uebung_2_2_.NET\bin\Debug\Uebung_2_2_.NET.pdb
+C:\Users\Admin\OneDrive\Daten PatrickHaag89@gmx.de\C#\Sem2 - 1. Schulaufgabe\2021_02_04_Einheit1_C#\Uebung_2_2_.NET\Uebung_2_2_.NET\obj\Debug\Uebung_2_2_.NET.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Daten PatrickHaag89@gmx.de\C#\Sem2 - 1. Schulaufgabe\2021_02_04_Einheit1_C#\Uebung_2_2_.NET\Uebung_2_2_.NET\obj\Debug\Uebung_2_2_.NET.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Daten PatrickHaag89@gmx.de\C#\Sem2 - 1. Schulaufgabe\2021_02_04_Einheit1_C#\Uebung_2_2_.NET\Uebung_2_2_.NET\obj\Debug\Uebung_2_2_.NET.exe
+C:\Users\Admin\OneDrive\Daten PatrickHaag89@gmx.de\C#\Sem2 - 1. Schulaufgabe\2021_02_04_Einheit1_C#\Uebung_2_2_.NET\Uebung_2_2_.NET\obj\Debug\Uebung_2_2_.NET.pdb
